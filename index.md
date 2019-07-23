@@ -1,37 +1,94 @@
-## Welcome to GitHub Pages
+# 朱军个人主页
+---
+## 基本信息
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>姓    名：朱军  </h1>
+      <h2>求职意向：互联网web前端开发工程师</h2>
+      <p><b>学   历：本科生在读</b></p>
+      <p><b>专   业：物联网工程</b></p>
+      <p><b>政治面貌：中共预备党员</p></b> 
+      <p><b>毕业院校：湖南科技大学计算机科学与工程学院</b></p>
+      <p><b>邮    箱：1361492816@qq.com</b></p>
+      <p><b>联系方式：18879664486</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhujun.jpg" width="100%">      
+    </td>
+  </tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/zhj136149/-zhujun12/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+---
+## 在校情况
+> 
+> -**教育背景**
+> >2016.09-2019.03      湖南科技大学   计算机科学与工程学院
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> >主修课程：C，java、SQL数据库、计算机网络、数据结构、传感器原理及应用
 
-### Markdown
+> -**任职经历**
+> >2016.09-2018.06     湖南科技大学   计算机科学与工程学院
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> >2016.10-2017.05     任院团学组织部委员  
 
-```markdown
-Syntax highlighted code block
+> >2017.05-2018.05     任院团学组织部部长
+                      2017级物联网工程二班学习助教
+                      
+> >2018.05-2019.05     任班级班长
+                     2018级网络工程三班助理班主任兼任班级学习助教
+                     
+> >现   任              党支部组织委员
 
-# Header 1
-## Header 2
-### Header 3
+---
+## 技能情况
 
-- Bulleted
-- List
+>
+>    >  熟练使用html（5）、css（3）、JavaScript web前端技术       
+>    >  熟悉jQuery、Ajax       
+>    >  熟悉bootstrap、Angular基本框架     
+>    >  对webpake前端工程化有一定了解      
+>    >  对浏览器兼容、ES6规范、git工作流有一定了解    
+>    >  有自己的原生js方法工具库     
+>    >  熟悉微信小程序开发     
+>    >  对vue、MongoDB数据库有一定了解      
+>    >  目前正在学习node.js中      
+>    >  熟悉三大办公软件、GitHub、webstorm，sublime，Photoshop等软件     
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+---
+## 所获荣誉
+>
+>-**2016-2017学年：**
 
-[Link](url) and ![Image](src)
-```
+>    >2017.06&2017.05  荣获校级“第十二届心理情景剧大赛”二等奖
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+>-**2017-2018学年：**
 
-### Jekyll Themes
+>    >2018.04 第二届全国大学生环保知识竞赛，荣获优秀奖                 
+>    >2017.12 荣获校级“优秀志愿者”      
+>    >2018.03&12 荣获校级“二等奖学金”“三等奖学金”     
+>    >2018.05 荣获校级“优秀青年志愿者”     
+>    >2017.05 荣获院级“第十二届心理情景剧大赛”一等奖   
+>    >2017.12 荣获院级“特殊贡献奖”“优秀学生干部”“三好学生”   
+>    >2018.05荣获院级“优秀部长”“优秀共青团员”   
+---
+## 项目展示
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhj136149/-zhujun12/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+>
+>    >1、校图书馆静态网页模写      （已完成）     
+>    >2、消灭星星 web App        （已完成）     
+>    >3、仿网易云音乐app          （已完成）        
+>    >4、ofo共享单车微信小程序	 （已完成）        
 
-### Support or Contact
+---
+## 社会实践
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+>
+>    >2017.03-2017.04  湘潭市锦德之家养老院     
+>    >2017.08-2017.09  深圳暑假工厂实践       
+>    >2018.03-2018.04  湘潭市社会福利院     
+>    >2018.08-2018.09  高二学生数学家教     
+
+
+
