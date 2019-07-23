@@ -1,8 +1,7 @@
 # 朱军个人主页
 ---
 > ## 基本信息
->  >     姓    名：朱军      
- <img src="/zhujun.jpg"/>
+>  >     姓    名：朱军      <img src="/zhujun.jpg" width="40px"/>
 
 >  >     求职意向：互联网web前端开发工程师  
 
